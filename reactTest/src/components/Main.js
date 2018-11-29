@@ -14,7 +14,7 @@ class AppComponent extends React.Component {
       <div className="index">
         <img src={yeomanImage} alt="Yeoman Generator" />
         <img src={iconImage} alt="icon" />
-        <span>hellow 22s1221</span>
+        <span>hellow 2221</span>
         <div className="notice">Please edit <code>src/components/Main.js</code> to get started!</div>
       </div>
     );
